@@ -7,3 +7,5 @@ Parameters:
 Example Usage:
 helloWorld(name: 'Mebin', day: 'Monday')
 
+Open Jenkins > Pipeline Syntax > Global Variables Reference to view Documentation
+
