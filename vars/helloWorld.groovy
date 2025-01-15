@@ -1,4 +1,4 @@
-def name(Map config = [:]){
+def call(Map config = [:]){
   echo "Hello ${config.name}, today is ${config.day}"
 }
 
