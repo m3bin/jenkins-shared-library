@@ -1,1 +1,9 @@
-This is a test file to test the help documentation for helloWorld.groovy
+The `helloWorld` function is used to print a greeting.
+
+Parameters:
+- name: The name of the person to greet (String).
+- day: The day of the week (String).
+
+Example Usage:
+helloWorld(name: 'Mebin', day: 'Monday')
+
